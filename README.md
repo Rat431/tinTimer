@@ -1,2 +1,2 @@
 # tinTimer
- A simple timer
+ A minimalistic timer written in Visual Basic for fun.
