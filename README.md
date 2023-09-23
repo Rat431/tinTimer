@@ -1,0 +1,2 @@
+# tinTimer
+ A simple timer
